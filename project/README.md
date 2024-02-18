@@ -1,8 +1,4 @@
-# project
-
 ## Set up project
-
-# ***************** Set up Project *****************
 
 ### Install Vue CLI
 npm install -g @vue/cli
